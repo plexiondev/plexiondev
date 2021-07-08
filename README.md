@@ -11,9 +11,4 @@ My main (or secondary i dunno lol) focus is spent on my website, [plexion.dev](h
 
 I'm pretty relaxed with licensing and all that stuff, but for short: any project or resource found under the plexion.dev domain is protected under the [GNU GPL v3](https://github.com/plexiondev/plexiondev.github.io/blob/master/LICENSE) license. I also have seperate guidelines for my content that doesn't follow a set license, [here](https://plexion.dev/terms).
 
-**Contact for questions**
-
-If you wanna get in contact with me, you got two options:
-
-**Business** - [plexionbusiness@gmail.com](mailto:plexionbusiness@gmail.com)
-**For Fans** - [plexionfans@gmail.com](mailto:plexionfans@gmail.com)
+If you wanna get in contact with me, you got two options: [plexionbusiness@gmail.com](mailto:plexionbusiness@gmail.com) and [plexionfans@gmail.com](mailto:plexionfans@gmail.com)
