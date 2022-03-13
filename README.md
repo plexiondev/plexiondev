@@ -14,6 +14,8 @@ i also make things in minecraft, some examples:
 
 if you're interested on socials, check [here](https://plexion.dev/socials)
 
+find my program config [here](https://github.com/plexiondev/settings)
+
 ## licensing
 
 all projects under plexion.dev are trademarked under [GNU GPL v3](https://github.com/plexiondev/plexiondev.github.io/blob/master/LICENSE)
