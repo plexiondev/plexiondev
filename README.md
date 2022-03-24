@@ -1,20 +1,23 @@
 ## plexiondev
 
-whenever i'm bored i'll make random cool things using html and js. some cool examples:
+hello, i make cool things; here are some of them:
+
+#### projects
 
 - [/plexion.dev](https://github.com/plexiondev/plexiondev.github.io) - my website for minecraft datapacks
 - [/manga](https://github.com/plexiondev/manga) - a barebones mangadex reader
 - [/video](https://github.com/plexiondev/video) - a web-based video player
 
-i also make things in minecraft, some examples:
+#### minecraft-related
 
 - [/entity-count](https://github.com/plexiondev/entity-count) - count entities in your world
 - [/mc-server-discord](https://github.com/plexiondev/mcserver-discord) - link your minecraft server status with discord
 - [/plex1on](https://github.com/plex1on) - hosts **ALL** of my datapacks/resourcepacks
 
-if you're interested on socials, check [here](https://plexion.dev/socials)
+## support
 
-find my program config [here](https://github.com/plexiondev/settings)
+- [all socials](https://plexion.dev/socials)
+- [config](https://github.com/plexiondev/settings)
 
 ## licensing
 
