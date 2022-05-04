@@ -1,6 +1,6 @@
 ## plexiondev
 
-hello, i make cool things; here are some of them:
+hello, i make cool things - here are some of them:
 
 #### projects
 
