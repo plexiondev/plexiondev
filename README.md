@@ -5,7 +5,7 @@ hello, i make cool things; here are some of them:
 #### projects
 
 - [/plexion.dev](https://github.com/plexiondev/plexiondev.github.io) - my website for minecraft datapacks
-- [/manga](https://github.com/plexiondev/manga) - a barebones mangadex reader
+- [/manga](https://github.com/plexiondev/manga) - a WIP mangadex reader
 - [/video](https://github.com/plexiondev/video) - a web-based video player
 
 #### minecraft-related
