@@ -11,6 +11,7 @@ hello, i make cool things - here are some of them:
 
 #### minecraft
 
+- [trades](https://github.com/plexiondev/trades) - trade generator for minecraft
 - [skyplex](https://github.com/plexiondev/skyplex) - a private WIP skill-based minecraft experience
 - [events-bot](https://github.com/plexiondev/events-bot) - discord bot to manage events
 - [mc-server-discord](https://github.com/plexiondev/mcserver-discord) - link your minecraft server status with discord
