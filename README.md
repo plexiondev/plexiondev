@@ -4,15 +4,21 @@ hello, i make cool things - here are some of them:
 
 #### projects
 
-- [/plexion.dev](https://github.com/plexiondev/plexiondev.github.io) - my website for minecraft datapacks
-- [/manga](https://github.com/plexiondev/manga) - a WIP mangadex reader
-- [/video](https://github.com/plexiondev/video) - a web-based video player
+- [plexion.dev](https://github.com/plexiondev/plexiondev.github.io) - my website for minecraft datapacks
+- [skyplex-web](https://github.com/plexiondev/skyplex-web) - web front for skyplex, mainly for generating data
+- [manga](https://github.com/plexiondev/manga) - a WIP mangadex reader
+- [video](https://github.com/plexiondev/video) - a web-based video player
 
-#### minecraft-related
+#### minecraft
 
-- [/entity-count](https://github.com/plexiondev/entity-count) - count entities in your world
-- [/mc-server-discord](https://github.com/plexiondev/mcserver-discord) - link your minecraft server status with discord
-- [/plex1on](https://github.com/plex1on) - hosts **ALL** of my datapacks/resourcepacks
+- [skyplex](https://github.com/plexiondev/skyplex) - a private WIP skill-based minecraft experience
+- [events-bot](https://github.com/plexiondev/events-bot) - discord bot to manage events
+- [mc-server-discord](https://github.com/plexiondev/mcserver-discord) - link your minecraft server status with discord
+- [-> plex1on](https://github.com/plex1on) - hosts **ALL** of my datapacks/resourcepacks
+
+#### powercord
+
+- [AMOLED](https://github.com/plexiondev/amoled) - amoled replica for powercord
 
 ## support
 
